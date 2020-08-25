@@ -14,3 +14,8 @@ Este projeto é de uso livre e será utilizado por mim em meus posts e exemplos 
 *  utils/dados.py: arquivo utilizado para as manipulações dos dados;
 
 
+
+
+### Referencias
+
+https://pytorch.org/docs/stable/data.html
