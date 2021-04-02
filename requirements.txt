@@ -1,1 +1,4 @@
 tqdm
+torch 
+torchvision
+scikit-learn
